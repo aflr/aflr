@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 --->
 
-<h1>¡Hola! Soy Alberto Florido <img src="src/Hi.gif" height="30"></h1>
+<h1 align="center">¡Hola! Soy Alberto Florido <img src="src/Hi.gif" height="30"></h1>
 
 <h2><img src="src/stats.gif" height="30"> Estadísticas de GitHub <img src="src/stats.gif" height="30"></h2>
 
